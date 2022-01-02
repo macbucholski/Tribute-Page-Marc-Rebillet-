@@ -1,0 +1,94 @@
+html {
+  background-color: #d8d4ff;
+}
+
+#title {
+  background-color: #ffc3bf;
+  height: 75px;
+  width: 97%;
+  position: absolute;
+  font-size: 45px;
+  font-family: georgia, sans-serif;
+  text-align: center;
+  border: 3px #fffea6;
+  border-radius: 10px;
+  border-style: solid;
+}
+
+.title {
+  position: relative;
+  bottom: 35px;
+  color: #bb5ced;
+  outline: 2px black;
+  border-radius: 10px;
+}
+
+.title2 {
+  position: relative;
+  bottom: 133px;
+  color: #fcfc6d;
+}
+
+#image {
+  max-width: 80%;
+  height: auto;
+  z-index: -1;
+  border: 3px #fffea6;
+  border-style: solid;
+  border-radius: 7px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  position: relative;
+  top: 115px;
+}
+
+#img-caption {
+  position: relative;
+  top: 120px;
+  text-align: center;
+  font-family: georgia, sans-serif;
+  font-size: 14px;
+  color: #5800a3;
+}
+
+.info-background {
+  background-color: #ffc3bf;
+  border: 3px #fffea6;
+  border-radius: 10px;
+  border-style: solid;
+  height: 105px;
+  width: 97%;
+  position: relative;
+  top: 150px;
+  margin-left: left;
+  margin-right: auto;
+}
+
+#tribute-info {
+  font-family: georgia, sans-serif;
+  font-size: 17px;
+  color: #5800a3;
+  position: relative;
+  text-align: left;
+  top: 0px;
+  padding: 0px 25px 25px 27px;
+  line-height: 1.5;
+}
+
+#footer {
+  background-color: #ffc3bf;
+  color: #5800a3;
+  height: 30px;
+  width: 95%;
+  position: absolute;
+  font-size: 18px;
+  font-family: georgia, sans-serif;
+  text-align: center;
+  border: 3px #fffea6;
+  border-radius: 10px;
+  border-style: solid;
+  padding: 15px 7px 0px 10px;
+  top: 970px;
+  bottom: 50px;
+}
